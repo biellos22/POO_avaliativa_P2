@@ -18,5 +18,5 @@ class Gato(Animal):
 cachorro = Cachorro("Pretinho")
 gato = Gato("Princesa")
 
-print(cachorro.emitir_som())  # Saída: "Bob diz: Au au!"
-print(gato.emitir_som())  # Saída: "Mimi diz: Miau!"
+print(cachorro.emitir_som())  # Saída: "Pretinho diz: Au au!"
+print(gato.emitir_som())  # Saída: "Princesa diz: Miau!"
